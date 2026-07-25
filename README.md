@@ -39,10 +39,6 @@ Users enter their skills → Platform analyzes gaps → Recommends missing skill
 - Career pathway planning
 - Skill priority ranking
 
-**Why it matters:** Demonstrates NLP, recommendation systems, data analysis, and full-stack product thinking.
-
-**Tech:** TBD (Ask for details to showcase)
-
 **Repository:** https://github.com/Koti-1130/ai-career-intelligence-platform
 
 ---
@@ -58,10 +54,6 @@ Research into how AI influences youth behavior, decision-making patterns, and lo
 - Behavioral impact metrics
 - 12-week intervention plan for behavioral change
 - Council presentation & recommendations
-
-**Why it matters:** Shows research rigor, stakeholder communication, social impact thinking, and ability to translate data into actionable insights.
-
-**Tech:** Data visualization • Statistical analysis • Dashboard design
 
 **Repository:** https://github.com/Koti-1130/YAIDS-Youth-AI-Impact-System
 
